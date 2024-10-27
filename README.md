@@ -1,1 +1,1 @@
-# RAHMAN_COMPANY
+Basically, this office management system is a web-based application where employees and managers can log in to access personal and work-related information. Each user has a secure login, allowing them to view their salary details. Managers have additional privileges, enabling them to evaluate projects, while employees can participate in project work. Designed to streamline operations and enhance transparency, this system provides role-based access to ensure that users have the information and tools relevant to their roles.
